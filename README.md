@@ -36,7 +36,7 @@ https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021
 COMPUTE is a research school with a focus on scientific discovery using computing, but in the widest sense, meaning any research using digital tools or e-Science for short. COMPUTE brings together partners from several different departments at Lund University. It organizes PhD courses, seminars, workshops and other activities.
 
 
-### Teachers
+### Group managers
 [Sonja Aits](http://research.med.lu.se/sonja-aits) (COMPUTE study director)
 
 [Rafsan Ahmed](https://portal.research.lu.se/en/persons/rafsan-ahmed) (PhD student)
