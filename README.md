@@ -11,6 +11,9 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 - The study is conceptually interesting/novel.
 - Open source code related to the article is available.
 
+### Meeting dates
+2022 dates will be announced soon.
+
 ## Joining the peer-learning group
 It is possible to join the peer-learning group anytime. Please register by emailing your full name, positiion and affiliation to the group organizers Rafsan Ahmed (rafsan.ahmed [at] med.lu.se) and Salma Kazemi Rashed (salma.kazemi_rashed [at] med.lu.se). 
 
@@ -32,11 +35,11 @@ https://github.com/Aitslab/training
 https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021
 
 
-### COMPUTE Research School
+## COMPUTE Research School
 COMPUTE is a research school with a focus on scientific discovery using computing, but in the widest sense, meaning any research using digital tools or e-Science for short. COMPUTE brings together partners from several different departments at Lund University. It organizes PhD courses, seminars, workshops and other activities.
 
 
-### Group managers
+## Group managers
 [Sonja Aits](http://research.med.lu.se/sonja-aits) (COMPUTE study director)
 
 [Rafsan Ahmed](https://portal.research.lu.se/en/persons/rafsan-ahmed) (PhD student)
