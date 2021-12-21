@@ -12,7 +12,13 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 - Open source code related to the article is available.
 
 ### Meeting dates
-2022 dates will be announced soon.
+* 20th Jan, 2022 Thursday @ 13:00
+* 17th Feb, 2022 Thursday @ 13:00
+* 17th Mar, 2022 Thursday @ 13:00
+* 7th Apr, 2022 Thursday @ 13:00
+* 24th May, 2022 Tuesday @ 13:00
+* 16th Jun, 2022 Thursday @ 13.00
+
 
 ## Joining the peer-learning group
 It is possible to join the peer-learning group anytime. Please register by emailing your full name, positiion and affiliation to the group organizers Rafsan Ahmed (rafsan.ahmed [at] med.lu.se) and Salma Kazemi Rashed (salma.kazemi_rashed [at] med.lu.se). 
