@@ -12,7 +12,7 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 - Open source code related to the article is available.
 
 ### Meeting dates
-* 20th Jan, 2022 Thursday @ 13:00
+* 27th Jan, 2022 Thursday @ 13:00
 * 17th Feb, 2022 Thursday @ 13:00
 * 17th Mar, 2022 Thursday @ 13:00
 * 7th Apr, 2022 Thursday @ 13:00
