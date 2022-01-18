@@ -18,6 +18,7 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 * 7th Apr, 2022 Thursday @ 13:00
 * 24th May, 2022 Tuesday @ 13:00
 * 16th Jun, 2022 Thursday @ 13.00
+
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
 
 ## Joining the peer-learning group
