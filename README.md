@@ -33,7 +33,7 @@ After your registration, we will add you to the "COMPUTE members" team on Micros
 
 Instructions for how to use Microsoft Teams can be found here: https://www.staff.lu.se/organisation-and-governance/coronaviruscovid-19-information-regarding-staffphd-doctoral-students/working-home-tools-and-tips/quick-guide-microsoft-teams
 
-The group organizers will get in touch with further instructions and the meeting schedule. You are also expected to sign up for an article presentation yourself.
+The group organizers will get in touch with further instructions. You are also expected to sign up for an article presentation yourself in this sheet: https://github.com/COMPUTE-LU/PLGroup_AI4MedLife-journalclub/blob/main/presentationlist.txt. You can add your name to the fall presentations if you prefer to listen to a few journal clubs first.
 
 ## Optional self-training material for group members
 https://github.com/Aitslab/training
