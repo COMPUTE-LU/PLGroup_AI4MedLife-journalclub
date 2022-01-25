@@ -13,6 +13,13 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 
 ### Meeting dates
 * 27th Jan, 2022 Thursday @ 13:00
+
+     Paper: Multi-domain translation between single-cell imaging and sequencing data using autoencoders
+     
+     Link: https://www.nature.com/articles/s41467-020-20249-2
+     
+     Code: https://github.com/uhlerlab/cross-modal-autoencoders
+     
 * 17th Feb, 2022 Thursday @ 13:00
 * 17th Mar, 2022 Thursday @ 13:00
 * 7th Apr, 2022 Thursday @ 13:00
