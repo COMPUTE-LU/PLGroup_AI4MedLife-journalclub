@@ -29,6 +29,13 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      Code: https://github.com/ZeyuGaoAi/Instance_based_Vision_Transformer
      
 * 17th Mar, 2022 Thursday @ 13:00
+
+     Paper: CODEX, a neural network approach to explore signaling dynamics landscapes
+     
+     Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034356/
+     
+     Code: https://github.com/pertzlab/CODEX
+     
 * 7th Apr, 2022 Thursday @ 13:00
 * 24th May, 2022 Tuesday @ 13:00
 * 16th Jun, 2022 Thursday @ 13.00
