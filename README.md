@@ -21,6 +21,13 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      Code: https://github.com/uhlerlab/cross-modal-autoencoders
      
 * 17th Feb, 2022 Thursday @ 13:00
+
+     Paper: Instance-based Vision Transformer for Subtyping of Papillary Renal Cell Carcinoma in Histopathological Image
+     
+     Link: https://arxiv.org/abs/2106.12265
+     
+     Code: https://github.com/ZeyuGaoAi/Instance_based_Vision_Transformer
+     
 * 17th Mar, 2022 Thursday @ 13:00
 * 7th Apr, 2022 Thursday @ 13:00
 * 24th May, 2022 Tuesday @ 13:00
