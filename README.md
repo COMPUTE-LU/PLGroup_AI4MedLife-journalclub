@@ -37,6 +37,14 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      Code: https://github.com/pertzlab/CODEX
      
 * 7th Apr, 2022 Thursday @ 13:00
+
+     Paper: A deep learning model to predict RNA-Seq expression of tumours from whole slide images
+
+     Link: https://www.nature.com/articles/s41467-020-17678-4.pdf 
+     
+     Code: https://github.com/owkin/HE2RNA_code 
+
+
 * 24th May, 2022 Tuesday @ 13:00
 * 16th Jun, 2022 Thursday @ 13.00
 
