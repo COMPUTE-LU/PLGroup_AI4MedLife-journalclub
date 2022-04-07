@@ -11,7 +11,7 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 - The study is conceptually interesting/novel.
 - Open source code related to the article is available.
 
-### Meeting dates
+### Meeting dates, spring 2022
 * 27th Jan, 2022 Thursday @ 13:00
 
      Paper: Multi-domain translation between single-cell imaging and sequencing data using autoencoders
