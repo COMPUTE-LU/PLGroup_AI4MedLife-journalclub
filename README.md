@@ -46,6 +46,13 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 
 
 * 24th May, 2022 Tuesday @ 13:00
+     
+     Paper: Resolving the origins of ancient Eurasian genomes
+
+     Link: Only available as an unpublished (submitted) manuscript. Contact Rafsan for a copy. 
+     
+     Code: https://github.com/sarabehnamian/Origins-of-Ancient-Eurasian-Genomes
+     
 * 16th Jun, 2022 Thursday @ 13.00
 
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
