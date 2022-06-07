@@ -54,6 +54,12 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      Code: https://github.com/sarabehnamian/Origins-of-Ancient-Eurasian-Genomes
      
 * 16th Jun, 2022 Thursday @ 13.00
+     
+     Paper: Deep learning for predicting respiratory rate from biosignals
+     
+     Link: https://www.sciencedirect.com/science/article/pii/S0010482522001305?casa_token=ieuYaWBsXvgAAAAA:_FSe-a8vxt9Qq_qeetmvLDSOU8n8B-lOf5Nj8i3lwSRtm3I5yFkVsgXOkXrLVcc9H-oGSCF-Ijg
+     
+     Code: https://github.com/sydney-machine-learning/biosignal_deeplearning
 
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
 
