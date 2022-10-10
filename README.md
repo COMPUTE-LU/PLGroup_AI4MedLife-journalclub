@@ -11,6 +11,20 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
 - The study is conceptually interesting/novel.
 - Open source code related to the article is available.
 
+ ### Meeting dates, fall 2022
+* 25th Oct, 2022 Tuesday @ 13:00
+
+     Paper: Medical Coding with Biomedical Transformer Ensembles and Zero/Few-shot Learning (ACL 2022)
+     
+     Link: https://aclanthology.org/2022.naacl-industry.21/
+     
+     Code: https://github.com/bayer-group/xtars-naacl2022
+     
+* 25th Oct, 2022 Thursday @ 13:00
+* 12th Jan, 2022 Tuesday @ 13:00
+
+zoom links will be sent out together with the paper to people who have joined this peer-learning group.
+
 ### Meeting dates, spring 2022
 * 27th Jan, 2022 Thursday @ 13:00
 
@@ -60,7 +74,7 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      Link: https://www.sciencedirect.com/science/article/pii/S0010482522001305?casa_token=ieuYaWBsXvgAAAAA:_FSe-a8vxt9Qq_qeetmvLDSOU8n8B-lOf5Nj8i3lwSRtm3I5yFkVsgXOkXrLVcc9H-oGSCF-Ijg
      
      Code: https://github.com/sydney-machine-learning/biosignal_deeplearning
-
+     
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
 
 ## Joining the peer-learning group
