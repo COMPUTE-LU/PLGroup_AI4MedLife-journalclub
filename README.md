@@ -20,7 +20,7 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      
      Code: https://github.com/bayer-group/xtars-naacl2022
      
-* 25th Oct, 2022 Thursday @ 13:00
+* 15th Dec, 2022 Thursday @ 13:00
 * 12th Jan, 2022 Tuesday @ 13:00
 
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
