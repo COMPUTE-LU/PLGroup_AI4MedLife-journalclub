@@ -78,7 +78,8 @@ zoom links will be sent out together with the paper to people who have joined th
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
 
 ## Joining the peer-learning group
-It is possible to join the peer-learning group anytime. Register through the following google form: https://forms.gle/Qw6eatsF1YG2BoC36
+It is possible to join the peer-learning group anytime through the following google form: https://forms.gle/Qw6eatsF1YG2BoC36
+
 You can also register by emailing your full name, positiion and affiliation to the group organizers Rafsan Ahmed (rafsan.ahmed [at] med.lu.se) and Salma Kazemi Rashed (salma.kazemi_rashed [at] med.lu.se). 
 
 #### For Lund University PhD students, Postdocs or employees:
