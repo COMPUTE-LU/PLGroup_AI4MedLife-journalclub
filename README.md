@@ -21,6 +21,13 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      Code: https://github.com/bayer-group/xtars-naacl2022
      
 * 15th Dec, 2022 Thursday @ 13:00
+
+     Paper: Pan-cancer image-based detection of clinically actionable genetic alterations (Nature Cancer)
+     
+     Link: https://www.nature.com/articles/s43018-020-0087-6#Sec15
+     
+     Code: https://github.com/jnkather/DeepHistology/releases/tag/v0.2
+     
 * 12th Jan, 2022 Tuesday @ 13:00
 
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
