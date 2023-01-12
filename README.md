@@ -30,6 +30,20 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      
 * 12th Jan, 2022 Tuesday @ 13:00
 
+     Paper: Pathway importance by graph convolutional network and Shapley additive explanations in gene expression phenotype of diffuse large B-cell lymphoma
+     
+     Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9231717/
+     
+     Code: https://github.com/JinHayakawa/PathSHAP
+     
+* 9th Feb, 2022 Tuesday @ 13:00
+* 9th Mar, 2022 Tuesday @ 13:00
+* 13th Apr, 2022 Tuesday @ 13:00
+* 11th May, 2022 Tuesday @ 13:00
+* 8th Jun, 2022 Tuesday @ 13:00
+
+
+
 zoom links will be sent out together with the paper to people who have joined this peer-learning group.
 
 ### Meeting dates, spring 2022
