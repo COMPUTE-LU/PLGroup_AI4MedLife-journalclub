@@ -28,7 +28,7 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      
      Code: https://github.com/jnkather/DeepHistology/releases/tag/v0.2
      
-* 12th Jan, 2022 Thursday @ 13:00
+* 12th Jan, 2023 Thursday @ 13:00
 
      Paper: Pathway importance by graph convolutional network and Shapley additive explanations in gene expression phenotype of diffuse large B-cell lymphoma
      
@@ -36,11 +36,11 @@ Every meeting lasts one hour and focuses on one scientific article, which everyo
      
      Code: https://github.com/JinHayakawa/PathSHAP
      
-* 9th Feb, 2022 Thursday @ 13:00 [Cancelled]
-* 9th Mar, 2022 Thursday @ 13:00
-* 13th Apr, 2022 Thursday @ 13:00
-* 11th May, 2022 Thursday @ 13:00
-* 8th Jun, 2022 Thursday @ 13:00
+* 9th Feb, 2023 Thursday @ 13:00 [Cancelled]
+* 9th Mar, 2023 Thursday @ 13:00
+* 13th Apr, 2023 Thursday @ 13:00
+* 11th May, 2023 Thursday @ 13:00
+* 8th Jun, 2023 Thursday @ 13:00
 
 
 
